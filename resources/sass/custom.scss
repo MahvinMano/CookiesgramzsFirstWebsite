@@ -1,0 +1,25 @@
+body{
+    
+    background-color: antiquewhite;
+    
+}
+.jumbotron{
+    
+  background: url("/image/cookies2.jpg");
+
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+ 
+} 
+
+.active:active{
+    
+    background:orange;
+}
+    
+.active:hover{
+    
+    background:green;
+}
+    
